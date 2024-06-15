@@ -74,4 +74,4 @@ Test the contract by input the value in the status bar.
 ##Authors
 Vanshaj
 
-vanshajsen16@gamil.com
+vanshajsen16@gmail.com
